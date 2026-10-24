@@ -1,0 +1,7 @@
+{
+  "id": "movysx",
+  "name": "Movy.sx",
+  "filename": "providers/movysx.js",
+  "supportedTypes": ["movie", "tv"],
+  "enabled": true
+}
