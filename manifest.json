@@ -1,8 +1,14 @@
 {
-  "id": "movysx",
-  "name": "Movy.sx",
+  "name": "Movy Addon Repository",
   "version": "1.0.0",
-  "filename": "providers/movysx.js",
-  "supportedTypes": ["movie", "tv"],
-  "enabled": true
+  "providers": [
+    {
+      "id": "movysx",
+      "name": "Movy.sx",
+      "version": "1.0.0",
+      "filename": "providers/movysx.js",
+      "supportedTypes": ["movie", "tv"],
+      "enabled": true
+    }
+  ]
 }
