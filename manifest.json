@@ -1,10 +1,8 @@
-[
-  {
-    "id": "movysx",
-    "name": "Movy.sx",
-    "version": "1.0.0",
-    "filename": "providers/movysx.js",
-    "supportedTypes": ["movie", "tv"],
-    "enabled": true
-  }
-]
+{
+  "id": "movysx",
+  "name": "Movy.sx",
+  "version": "1.0.0",
+  "filename": "providers/movysx.js",
+  "supportedTypes": ["movie", "tv"],
+  "enabled": true
+}
